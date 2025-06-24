@@ -1,10 +1,10 @@
 ## Opa! Como anda?
-<div align="center">
-  <a href="https://github.com/Rhnpl/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rhnpl&show_icons=true&theme=default" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&layout=compact&langs_count=8&card_width=320" /
+<a href="https://github.com/Rhnpl/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rhnpl&show_icons=true&theme=default" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 ## 📚 Sobre mim | About me
