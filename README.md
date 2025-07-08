@@ -1,10 +1,18 @@
 ## Opa! Como anda?
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
-  <a href="https://github.com/Rhnpl/github-readme-stats" target="_blank">
-    <img style="max-height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Rhnpl&card_width=300" />
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+  <a href="https://github.com/Rhnpl/github-readme-stats" target="_blank" style="display: block; width: 300px; height: 180px; overflow: hidden;">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=Rhnpl&card_width=300"
+      style="width: 100%; height: 100%; object-fit: cover;"
+      alt="GitHub Stats"
+    />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
-    <img style="max-height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&langs_count=8&card_width=300" />
+  <a href="https://github.com/anuraghazra/convoychat" target="_blank" style="display: block; width: 300px; height: 180px; overflow: hidden;">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&langs_count=8&card_width=300"
+      style="width: 100%; height: 100%; object-fit: cover;"
+      alt="Top Languages"
+    />
   </a>
 </div>
 
