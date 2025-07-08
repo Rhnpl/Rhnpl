@@ -1,14 +1,12 @@
 ## Opa! Como anda?
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
+<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px; align-items: flex-start;">
   <a href="https://github.com/Rhnpl/github-readme-stats" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=Rhnpl&card_width=300" />
+    <img style="max-height: 180px;" src="https://github-readme-stats.vercel.app/api?username=Rhnpl&card_width=300" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat" target="_blank">
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&layout=compact&langs_count=8&card_width=300" />
+    <img style="max-height: 180px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&langs_count=8&card_width=300" />
   </a>
 </div>
-
-
 
 ---
 ## 📚 Sobre mim | About me
