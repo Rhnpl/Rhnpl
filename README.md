@@ -6,7 +6,6 @@
   <img height=180 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&layout=compact&langs_count=8&card_width=300" />
 </a>
 
----
 ## 📚 Sobre mim | About me
 
 - 🔭 Atualmente cursando o 3°Ano do ensino médio
