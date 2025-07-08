@@ -1,17 +1,21 @@
 ## Opa! Como anda?
-<div style="display: flex; justify-content: center; gap: 20px; margin-bottom: 20px;">
-  <a href="https://github.com/Rhnpl/github-readme-stats" target="_blank" style="display: block; width: 300px; height: 180px; overflow: hidden;">
+<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
+  <a href="https://github.com/Rhnpl/github-readme-stats" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api?username=Rhnpl&card_width=300"
-      style="width: 100%; height: 100%; object-fit: cover;"
       alt="GitHub Stats"
+      width="300"
+      height="180"
+      style="object-fit: contain;"
     />
   </a>
-  <a href="https://github.com/anuraghazra/convoychat" target="_blank" style="display: block; width: 300px; height: 180px; overflow: hidden;">
+  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
     <img
       src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&langs_count=8&card_width=300"
-      style="width: 100%; height: 100%; object-fit: cover;"
       alt="Top Languages"
+      width="300"
+      height="180"
+      style="object-fit: contain;"
     />
   </a>
 </div>
