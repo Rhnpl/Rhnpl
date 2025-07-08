@@ -1,6 +1,6 @@
 ## Opa! Como anda?
 <a href="https://github.com/Rhnpl/github-readme-stats">
-  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=Rhnpl&card_width=400" />
+  <img height="180" align="left" src="https://github-readme-stats.vercel.app/api?username=Rhnpl />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height="180" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&card_width=400" />
