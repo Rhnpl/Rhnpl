@@ -1,24 +1,10 @@
 ## Opa! Como anda?
-<div style="display: flex; justify-content: center; gap: 15px; margin-bottom: 20px;">
-  <a href="https://github.com/Rhnpl/github-readme-stats" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=Rhnpl&card_width=300"
-      alt="GitHub Stats"
-      width="300"
-      height="180"
-      style="object-fit: contain;"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat" target="_blank">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&langs_count=8&card_width=300"
-      alt="Top Languages"
-      width="300"
-      height="180"
-      style="object-fit: contain;"
-    />
-  </a>
-</div>
+<a href="https://github.com/Rhnpl/github-readme-stats">
+  <img height=180 align="left" src="https://github-readme-stats.vercel.app/api?username=Rhnpl" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=180 align="rigth" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rhnpl&layout=compact&langs_count=8&card_width=300" />
+</a>
 
 ---
 ## 📚 Sobre mim | About me
